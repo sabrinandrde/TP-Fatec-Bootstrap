@@ -15,6 +15,24 @@
     
 }
 
-.nav1{
-    background-color: rgb(218, 64, 87);
+.bg-pink {
+    background-color: rgb(243, 236, 240);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.bg-font {
+    font-family: 'Pacifico', cursive;
+}
+
+.bg-card {
+    font-family: 'Lobster', cursive;
+
+}
+
+.jumbotron {
+    margin: 0;
+}
+
+.navbar-brand img {
+    border-radius: 10px;
 }
